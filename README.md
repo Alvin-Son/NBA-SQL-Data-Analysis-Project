@@ -39,7 +39,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="400">
-    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="400">
+    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="600">
 </div>
 
 **Context and Analysis**:
@@ -57,7 +57,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Golden State Warriors** achieved the best rolling 5-year win-loss record from **2014 to 2018**, with a win percentage of **0.785**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="400">
+    <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="600">
     <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="400">
 </div>
 
