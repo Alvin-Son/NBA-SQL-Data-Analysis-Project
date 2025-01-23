@@ -39,7 +39,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 | History made! | Best Records |
 |---------------|-------------|
-| <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="400"> | <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best Record" width="600"> |
+| <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="400"> | <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best Record" width="700"> |
 
 
 **Context and Analysis**:
@@ -58,7 +58,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 | Dynasty | 5-Year Performance |
 |------------------------------|---------------------|
-| <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="600"> | <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="400"> |
+| <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="600"> | <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="600"> |
 
 
 **Context and Analysis**:
@@ -77,7 +77,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 | Big 3 Era | Turnaround |
 |-----------|------------|
-| <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="500"> | <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="500"> |
+| <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="500"> | <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="700"> |
 
 
 **Context and Analysis**:
