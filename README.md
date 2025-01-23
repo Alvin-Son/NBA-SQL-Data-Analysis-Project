@@ -19,8 +19,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Boston Celtics** have the most wins in NBA history, with **3,625 wins and 2,581 losses**, while maintaining a legacy as one of the league's most successful franchises.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png" alt="Celtics" width="500">
-    <img src="https://github.com/user-attachments/assets/85ce5027-165d-46ea-b097-443f26240da1" alt="Total win-loss" width="500">
+    <img src="https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png" alt="Celtics" width="200">
+    <img src="https://github.com/user-attachments/assets/85ce5027-165d-46ea-b097-443f26240da1" alt="Total win-loss" width="200">
 </div>
 
 **Context and Analysis**:
@@ -38,8 +38,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Golden State Warriors** had the best single-season record in **2015**, finishing with **73 wins and 9 losses**, a remarkable win percentage of **0.89**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="330">
-    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="600">
+    <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="200">
+    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="200">
 </div>
 
 **Context and Analysis**:
@@ -57,8 +57,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Golden State Warriors** achieved the best rolling 5-year win-loss record from **2014 to 2018**, with a win percentage of **0.785**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="555">
-    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="368">
+    <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="200">
+    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="200">
 </div>
 
 **Context and Analysis**:
@@ -76,8 +76,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Boston Celtics** had the biggest year-over-year improvement, increasing their wins by **42 games** between the **2006 season (24 wins)** and the **2007 season (66 wins)**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="500" >
-    <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="500">
+    <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="200" >
+    <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="200">
 </div>
 
 **Context and Analysis**:
