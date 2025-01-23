@@ -58,7 +58,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="600">
-    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="6500">
+    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="650">
 </div>
 
 **Context and Analysis**:
@@ -76,8 +76,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Boston Celtics** had the biggest year-over-year improvement, increasing their wins by **42 games** between the **2006 season (24 wins)** and the **2007 season (66 wins)**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="400" >
-    <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="400">
+    <img src="https://lh4.googleusercontent.com/proxy/iZSKW2bXrnmL6Nxsmf6_priGGtv57qsXEqcLGlNBz6Qnhme8_aCRZZwQZU6cNxbfQ1OdMMaXZ2lCz5kZQqfSHHI7m5-kGCxcNyAdxMAhI5L4RpKevmg6u-z0ND_t8eEEoA9w7l89okK5i2er3phD2ENYdMATxbsia1kKG2J_t45-LqQMETgi99iZne1Z3WwazvYOjQOaftMZ526Vn7X4lMDI-FfpddJbzopYKA" alt="big3" width="300" >
+    <img src="https://github.com/user-attachments/assets/4d72d9a1-9b5d-4aa3-99d0-2b5af0500853" alt="turnaround" width="300">
 </div>
 
 **Context and Analysis**:
