@@ -38,8 +38,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The **Golden State Warriors** had the best single-season record in **2015**, finishing with **73 wins and 9 losses**, a remarkable win percentage of **0.89**.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="400">
-    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="600">
+    <img src="https://www.nydailynews.com/wp-content/uploads/migration/2016/04/14/4P6DIWI2VOMZORDSVU2SMK527I.jpg" alt="Warriors" width="600">
+    <img src="https://github.com/user-attachments/assets/d02d3996-fca9-4690-8ac5-26cb461a7aca" alt="Best record" width="500">
 </div>
 
 **Context and Analysis**:
@@ -58,7 +58,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://www.si.com/.image/t_share/MTY4MTA1MjMyMjk4NDg1MDA5/warriors-celebrationjpg.jpg" alt="Warriors Dynasty" width="600">
-    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="400">
+    <img src="https://github.com/user-attachments/assets/0b2df626-09d4-4079-809f-629b43e21614" alt="5 Year" width="700">
 </div>
 
 **Context and Analysis**:
