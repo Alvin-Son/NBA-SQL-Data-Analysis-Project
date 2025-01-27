@@ -169,25 +169,6 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 ---
 
-### Repository Structure
-
-### Folders
-1. **`scripts`**: Contains SQL scripts for querying the dataset.
-2. **`results`**: Stores images and results generated from running the queries.
-3. **`data`**: Placeholder for the original dataset file from Kaggle (not included in the repository due to size).
-
-### Files
-1. **`README.md`**: Documentation about the project, its structure, and how to run the analysis.
-2. **`scripts/script_2.sql`**: SQL script to find the team with the best win-loss record in a single season.
-3. **`scripts/script_3.sql`**: SQL script to calculate the total wins and losses for each team in their entire history.
-4. **`scripts/script_4.sql`**: SQL script to identify the team with the best win-loss record over a 5-year period.
-5. **`scripts/script_5.sql`**: SQL script to find the team with the largest increase or decrease in wins from one season to the next.
-6. **`scripts/question6.sql`**: SQL script to analyze home versus away dominance for each team.
-7. **`scripts/question5.sql`**: SQL script to calculate the highest average margin of victory in a single season.
-
-
----
-
 ### Future Enhancements
 - Add more advanced statistical queries.
 - Analyze player data.
