@@ -89,24 +89,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 ---
 
-#### **Question 5: Which team has the highest average margin of victory in a single season?**
-
-**Result Summary**:
-- The **1971 Los Angeles Lakers** hold the highest average margin of victory in a single season, with an average margin of **12.28 points per game**.
-
-| 1971 Lakers | Victory Margins  |
-|--------------------------|-------------------|
-| <img src="https://www.latimes.com/includes/projects/img/lakers/season_photos/season_1970_1971.jpg" alt="1970-1971 Lakers Season" width="700"> | <img src="https://github.com/user-attachments/assets/814b9a58-9c55-4424-86f7-1b521a79e90e" alt="Championship Team" width="700"> |
-
-**Context and Analysis**:
--  This result reflects the Lakers' dominance during the 1971 season, featuring stars like Wilt Chamberlain and Jerry West. Chamberlain’s commanding presence in the paint combined with West’s scoring and playmaking created one of the most well-rounded teams in NBA history. Their teamwork and ability to control both ends of the court resulted in consistently dominant performances.
-- Key games during the season showcased their excellence, with multiple blowout victories that demonstrated their ability to overwhelm opponents defensively and offensively.
-- **Why is this significant?**
-  - A high average margin of victory indicates not just winning games but doing so decisively. This level of dominance reflects team depth, coaching, and overall execution. The Lakers' achievements in 1971 set a benchmark for what a truly dominant team looks like, showcasing the effectiveness of strategic roster construction and player synergy.
-
----
-
-#### **Question 6: Which teams dominate at home compared to away games?**
+#### **Question 5: Which teams dominate at home compared to away games?**
 
 **Result Summary**:
 - The **Denver Nuggets** show the largest difference between home and away win percentages, with a **home win percentage of 63.5%** and an **away win percentage of 34.1%**, resulting in a difference of **29.4%**.
@@ -120,6 +103,23 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - Beyond altitude, the passionate fanbase at Ball Arena (formerly Pepsi Center) further enhances their home-court advantage, creating an energetic and supportive atmosphere that motivates players.
 - **Why is this significant?**
   - Home-court advantage is a critical factor in the NBA, and the Denver Nuggets exemplify how external factors like altitude and fan support can translate into tangible results. Their dominance at home highlights the importance of leveraging unique environmental factors and cultivating a strong connection with the home crowd. However, their weaker performance on the road underscores the challenge of maintaining consistency in varying conditions.
+    
+---
+
+#### **Question 6: Which team has the highest average margin of victory in a single season?**
+
+**Result Summary**:
+- The **1971 Los Angeles Lakers** hold the highest average margin of victory in a single season, with an average margin of **12.28 points per game**.
+
+| 1971 Lakers | Victory Margins  |
+|--------------------------|-------------------|
+| <img src="https://www.latimes.com/includes/projects/img/lakers/season_photos/season_1970_1971.jpg" alt="1970-1971 Lakers Season" width="700"> | <img src="https://github.com/user-attachments/assets/814b9a58-9c55-4424-86f7-1b521a79e90e" alt="Championship Team" width="700"> |
+
+**Context and Analysis**:
+-  This result reflects the Lakers' dominance during the 1971 season, featuring stars like Wilt Chamberlain and Jerry West. Chamberlain’s commanding presence in the paint combined with West’s scoring and playmaking created one of the most well-rounded teams in NBA history. Their teamwork and ability to control both ends of the court resulted in consistently dominant performances.
+- Key games during the season showcased their excellence, with multiple blowout victories that demonstrated their ability to overwhelm opponents defensively and offensively.
+- **Why is this significant?**
+  - A high average margin of victory indicates not just winning games but doing so decisively. This level of dominance reflects team depth, coaching, and overall execution. The Lakers' achievements in 1971 set a benchmark for what a truly dominant team looks like, showcasing the effectiveness of strategic roster construction and player synergy.
 
 ---
 
@@ -154,16 +154,16 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - Improvement: +42 wins
 - From 2006 (24 wins) to 2007 (66 wins)
 
-#### **Highest Average Margin of Victory in a Single Season**
-- Team: Los Angeles Lakers
-- Year: 1971
-- Average Margin: 12.28 points
-
 #### **Home Court Dominance**
 - Team: Denver Nuggets
 - Home Win Percentage: 63.5%
 - Away Win Percentage: 34.1%
 - Home vs. Away Difference: 29.4%
+
+#### **Highest Average Margin of Victory in a Single Season**
+- Team: Los Angeles Lakers
+- Year: 1971
+- Average Margin: 12.28 points
 
 ---
 
@@ -180,8 +180,9 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 3. **`scripts/script_3.sql`**: SQL script to calculate the total wins and losses for each team in their entire history.
 4. **`scripts/script_4.sql`**: SQL script to identify the team with the best win-loss record over a 5-year period.
 5. **`scripts/script_5.sql`**: SQL script to find the team with the largest increase or decrease in wins from one season to the next.
-6. **`scripts/question5.sql`**: SQL script to calculate the highest average margin of victory in a single season.
-7. **`scripts/question6.sql`**: SQL script to analyze home versus away dominance for each team.
+6. **`scripts/question6.sql`**: SQL script to analyze home versus away dominance for each team.
+7. **`scripts/question5.sql`**: SQL script to calculate the highest average margin of victory in a single season.
+
 
 ---
 
@@ -200,8 +201,9 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
      - `results/Total_win-loss.png`: Total win-loss records for all teams.
      - `results/5year_run.png`: Best 5-year win-loss records.
      - `results/Best_turnaround.png`: Largest increase or decrease in wins from one season to the next.
-     - `results/Win_margin.png`: Highest average margin of victory in a single season.
      - `results/Home_dominant.png`: Teams with the largest home versus away win percentage differences.
+     - `results/Win_margin.png`: Highest average margin of victory in a single season.
+
 
 ---
 
