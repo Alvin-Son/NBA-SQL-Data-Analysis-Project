@@ -89,6 +89,41 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 ---
 
+#### **Question 5: Which team has the highest average margin of victory in a single season?**
+
+**Result Summary**:
+- The **1971 Los Angeles Lakers** hold the highest average margin of victory in a single season, with an average margin of **12.28 points per game**.
+
+| 1971 Lakers | Victory Margins  |
+|--------------------------|-------------------|
+| <img src="https://www.latimes.com/includes/projects/img/lakers/season_photos/season_1970_1971.jpg" alt="1970-1971 Lakers Season" width="700"> | <img src="https://github.com/user-attachments/assets/814b9a58-9c55-4424-86f7-1b521a79e90e" alt="Championship Team" width="700"> |
+
+**Context and Analysis**:
+- This result reflects the Lakers' dominance during the 1971 season, featuring stars like Wilt Chamberlain and Jerry West. Their ability to outscore opponents consistently shows a strong combination of offense and defense.
+- The Chicago Bulls from the 1995-96 season and the Golden State Warriors from the 2015-16 season also appear at the top, underscoring their historic dominance during their respective championship runs.
+- **Why is this significant?**
+  - A high average margin of victory indicates not just winning games but doing so decisively. This level of dominance reflects team depth, coaching, and overall execution.
+
+---
+
+#### **Question 6: Which teams dominate at home compared to away games?**
+
+**Result Summary**:
+- The **Denver Nuggets** show the largest difference between home and away win percentages, with a **home win percentage of 63.5%** and an **away win percentage of 34.1%**, resulting in a difference of **29.4%**.
+
+| Denver Nuggets | Home court advantage |
+|---------------|------------------|
+| <img src="https://miro.medium.com/v2/resize:fit:1400/0*n_9Wwa_XDBFVVxLR" alt="Iconic Moment" width="700"> | <img src="https://github.com/user-attachments/assets/c1e09467-55d1-4ede-b0b5-d988c7c95ef3" alt="Recent Highlight" width="700"> |
+
+**Context and Analysis**:
+- Teams like the Denver Nuggets, Utah Jazz, and Portland Trail Blazers often have strong home-court advantages due to factors like altitude (e.g., Denver and Utah) or passionate fan support.
+- The Boston Celtics also appear as a home-dominant team, with a notable difference of **24.2%** between their home and away win percentages.
+- **Why is this significant?**
+  - Home-court advantage is a critical factor in the NBA. It often influences playoff seeding and outcomes, as teams that dominate at home can rely on their home fans, familiarity with their court, and reduced travel fatigue.
+  - Identifying teams with large home-versus-away differences can help in understanding patterns of success and areas for improvement on the road.
+
+---
+
 ### Dataset and Tools
 - **Dataset**: The NBA Database from Kaggle contains detailed game-by-game information, including team names, game outcomes, and win-loss results.
 - **Tools**:
