@@ -27,8 +27,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The Celtics' historical dominance is due to their success in the mid-20th century, particularly during the Bill Russell era (1956–1969), when they won 11 championships in 13 seasons.
 - As one of the league's original teams, they benefited from stability, excellent coaching (Red Auerbach), and a roster filled with Hall of Fame players like Bill Russell, Larry Bird, and Paul Pierce over decades.
 - **Why is this significant?**
-- Teams with long-standing histories like the Celtics and the Los Angeles Lakers have accumulated significant win totals due to their sustained excellence and ability to adapt across different eras of basketball.
-- Teams lower on the list, such as expansion teams like the Charlotte Hornets or Memphis Grizzlies, reflect the challenge of building competitive franchises from scratch.
+  - Teams with long-standing histories like the Celtics and the Los Angeles Lakers have accumulated significant win totals due to their sustained excellence and ability to adapt across different eras of basketball.
+  - Teams lower on the list, such as expansion teams like the Charlotte Hornets or Memphis Grizzlies, reflect the challenge of building competitive franchises from scratch.
 
 ---
 
@@ -46,8 +46,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The 2015 season was historic for the Warriors, led by MVP Stephen Curry and a supporting cast featuring Klay Thompson and Draymond Green. This team excelled in ball movement, perimeter shooting, and defense under coach Steve Kerr, revolutionizing the game with their "small-ball" lineup.
 - Their success marked the culmination of a carefully built roster and strategic innovations in how basketball was played. The team's ability to score from beyond the arc consistently overwhelmed opponents.
 - **Why is this significant?**
-- The Warriors broke the previous single-season record of 72 wins set by the Chicago Bulls in 1995-1996. Their record-setting performance underlines how a combination of talent, coaching, and modern basketball strategies can achieve unparalleled success.
-- However, their season was bittersweet as they failed to win the NBA championship that year, losing to the Cleveland Cavaliers in the NBA Finals.
+  - The Warriors broke the previous single-season record of 72 wins set by the Chicago Bulls in 1995-1996. Their record-setting performance underlines how a combination of talent, coaching, and modern basketball strategies can achieve unparalleled success.
+  - However, their season was bittersweet as they failed to win the NBA championship that year, losing to the Cleveland Cavaliers in the NBA Finals.
 
 ---
 
@@ -65,8 +65,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - This period coincided with the Warriors' dynasty, fueled by the arrival of Kevin Durant in 2016 and their existing core of Stephen Curry, Klay Thompson, and Draymond Green. They won three NBA championships (2015, 2017, 2018) during this span.
 - The Warriors were revolutionary in adopting analytics-driven strategies, particularly prioritizing three-point shooting and pace-and-space basketball. They led the league in offensive efficiency while maintaining a top-tier defense.
 - **Why is this significant?**
-- Their dominance shows the value of having a cohesive team structure, a clear game plan, and player development. Teams in the past had relied on individual superstars; the Warriors showcased the power of a team-oriented approach.
-- This era also symbolizes a shift in basketball philosophy, where three-point shooting and small-ball lineups became the standard across the league.
+  - Their dominance shows the value of having a cohesive team structure, a clear game plan, and player development. Teams in the past had relied on individual superstars; the Warriors showcased the power of a team-oriented approach.
+  - This era also symbolizes a shift in basketball philosophy, where three-point shooting and small-ball lineups became the standard across the league.
 
 ---
 
@@ -84,8 +84,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - This dramatic turnaround was primarily driven by the formation of the Celtics' "Big Three": Paul Pierce, Kevin Garnett, and Ray Allen. The team acquired Garnett and Allen in blockbuster trades during the offseason, instantly transforming them into championship contenders.
 - Under the leadership of head coach Doc Rivers, the team focused on defensive intensity and unselfish play, leading to a dominant regular season and an NBA championship in 2008.
 - **Why is this significant?**
-- This result highlights the power of roster reconstruction in the NBA. A team with the right combination of talent, leadership, and chemistry can achieve rapid success, even after years of mediocrity.
-- Conversely, teams experiencing a significant decrease in wins often face injuries, roster changes, or internal instability. For example, injuries to key players or the departure of star players can quickly dismantle a previously successful team.
+  - This result highlights the power of roster reconstruction in the NBA. A team with the right combination of talent, leadership, and chemistry can achieve rapid success, even after years of mediocrity.
+  - Conversely, teams experiencing a significant decrease in wins often face injuries, roster changes, or internal instability. For example, injuries to key players or the departure of star players can quickly dismantle a previously successful team.
 
 ---
 
@@ -119,7 +119,7 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The Denver Nuggets' strong home performance can largely be attributed to the unique advantage of playing at altitude in Denver, Colorado. The thinner air at high altitude often creates challenges for visiting teams, particularly those not accustomed to such conditions. This natural advantage has historically contributed to the Nuggets’ success at home.
 - Beyond altitude, the passionate fanbase at Ball Arena (formerly Pepsi Center) further enhances their home-court advantage, creating an energetic and supportive atmosphere that motivates players.
 - **Why is this significant?**
-- Home-court advantage is a critical factor in the NBA, and the Denver Nuggets exemplify how external factors like altitude and fan support can translate into tangible results. Their dominance at home highlights the importance of leveraging unique environmental factors and cultivating a strong connection with the home crowd. However, their weaker performance on the road underscores the challenge of maintaining consistency in varying conditions.
+  - Home-court advantage is a critical factor in the NBA, and the Denver Nuggets exemplify how external factors like altitude and fan support can translate into tangible results. Their dominance at home highlights the importance of leveraging unique environmental factors and cultivating a strong connection with the home crowd. However, their weaker performance on the road underscores the challenge of maintaining consistency in varying conditions.
 
 ---
 
