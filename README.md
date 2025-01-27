@@ -102,7 +102,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 - The Denver Nuggets' strong home performance can largely be attributed to the unique advantage of playing at altitude in Denver, Colorado. The thinner air at high altitude often creates challenges for visiting teams, particularly those not accustomed to such conditions. This natural advantage has historically contributed to the Nuggets’ success at home.
 - Beyond altitude, the passionate fanbase at Ball Arena (formerly Pepsi Center) further enhances their home-court advantage, creating an energetic and supportive atmosphere that motivates players.
 - **Why is this significant?**
-  - Home-court advantage is a critical factor in the NBA, and the Denver Nuggets exemplify how external factors like altitude and fan support can translate into tangible results. Their dominance at home highlights the importance of leveraging unique environmental factors and cultivating a strong connection with the home crowd. However, their weaker performance on the road underscores the challenge of maintaining consistency in varying conditions.
+  - Home-court advantage is a critical factor in the NBA, and the Denver Nuggets exemplify how external factors like altitude and fan support can translate into tangible results. Their dominance at home highlights the importance of leveraging unique environmental factors and cultivating a strong connection with the home crowd.
+  - However, their weaker performance on the road underscores the challenge of maintaining consistency in varying conditions.
     
 ---
 
@@ -119,7 +120,8 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 -  This result reflects the Lakers' dominance during the 1971 season, featuring stars like Wilt Chamberlain and Jerry West. Chamberlain’s commanding presence in the paint combined with West’s scoring and playmaking created one of the most well-rounded teams in NBA history. Their teamwork and ability to control both ends of the court resulted in consistently dominant performances.
 - Key games during the season showcased their excellence, with multiple blowout victories that demonstrated their ability to overwhelm opponents defensively and offensively.
 - **Why is this significant?**
-  - A high average margin of victory indicates not just winning games but doing so decisively. This level of dominance reflects team depth, coaching, and overall execution. The Lakers' achievements in 1971 set a benchmark for what a truly dominant team looks like, showcasing the effectiveness of strategic roster construction and player synergy.
+  - A high average margin of victory indicates not just winning games but doing so decisively. This level of dominance reflects team depth, coaching, and overall execution.
+  - The Lakers' achievements in 1971 set a benchmark for what a truly dominant team looks like, showcasing the effectiveness of strategic roster construction and player synergy.
 
 ---
 
