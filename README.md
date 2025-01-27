@@ -188,29 +188,9 @@ The NBA is a league defined by its dynasties, legendary players, and moments of 
 
 ---
 
-### Instructions to Run the Analysis
-
-1. **Setup Database**:
-   - Download the dataset from the [Kaggle NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball).
-   - Import the dataset into a SQL database (e.g., PostgreSQL).
-
-2. **Execute Queries**:
-   - Run each script in the `scripts` folder using your preferred SQL client.
-
-3. **View Results**:
-   - Results from each query have been saved as images in the `results` folder:
-     - `results/Best_record.png`: Best single-season win-loss record.
-     - `results/Total_win-loss.png`: Total win-loss records for all teams.
-     - `results/5year_run.png`: Best 5-year win-loss records.
-     - `results/Best_turnaround.png`: Largest increase or decrease in wins from one season to the next.
-     - `results/Home_dominant.png`: Teams with the largest home versus away win percentage differences.
-     - `results/Win_margin.png`: Highest average margin of victory in a single season.
-
-
----
-
 ### Future Enhancements
 - Add more advanced statistical queries.
+- Analyze player data.
 - Use Python with libraries like Pandas and Matplotlib for further analysis and visualization.
-- Automate the querying and visualization process.
+- Automate the querying and add a visualization process.
 
